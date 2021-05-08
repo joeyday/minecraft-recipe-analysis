@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_m2m">
+    <sys_m2m action="INSERT_OR_UPDATE">
+        <from_table>x_10559_minecraft_recipe</from_table>
+        <m2m_from_field>recipe</m2m_from_field>
+        <m2m_from_label>Recipe</m2m_from_label>
+        <m2m_table>x_10559_minecraft_m2m_items_recipes</m2m_table>
+        <m2m_to_field>ingredient</m2m_to_field>
+        <m2m_to_label>Ingredient</m2m_to_label>
+        <sys_class_name>sys_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-08 04:42:48</sys_created_on>
+        <sys_id>a42a53602f80301046c859a72799b659</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_10559_minecraft_m2m_items_recipes</sys_name>
+        <sys_package display_value="Minecraft Crafting Tree" source="x_10559_minecraft">ef894ba02f40301046c859a72799b6aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Minecraft Crafting Tree">ef894ba02f40301046c859a72799b6aa</sys_scope>
+        <sys_update_name>sys_m2m_a42a53602f80301046c859a72799b659</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-08 04:42:48</sys_updated_on>
+        <to_table>x_10559_minecraft_item</to_table>
+    </sys_m2m>
+</record_update>

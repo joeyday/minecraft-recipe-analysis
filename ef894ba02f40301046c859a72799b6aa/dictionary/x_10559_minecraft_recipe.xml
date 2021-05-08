@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Recipe" max_length="40" name="x_10559_minecraft_recipe" type="collection">
+        <element label="Result" max_length="32" name="result" reference="x_10559_minecraft_item" type="reference"/>
+        <element choice="1" label="Type" max_length="40" name="type" type="choice">
+            <choice/>
+        </element>
+        <index name="index">
+            <element name="result"/>
+        </index>
+    </element>
+</database>

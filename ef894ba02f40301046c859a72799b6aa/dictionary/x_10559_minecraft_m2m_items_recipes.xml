@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Minecraft M2m Items Recipes" max_length="40" name="x_10559_minecraft_m2m_items_recipes" type="collection">
+        <element attributes="encode_utf8=false" label="Ingredient" max_length="32" name="ingredient" reference="x_10559_minecraft_item" type="reference"/>
+        <element attributes="encode_utf8=false" label="Recipe" max_length="32" name="recipe" reference="x_10559_minecraft_recipe" type="reference"/>
+        <index name="index">
+            <element name="ingredient"/>
+        </index>
+        <index name="index2">
+            <element name="recipe"/>
+        </index>
+    </element>
+</database>

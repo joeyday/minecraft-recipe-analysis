@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_data_policy2">
+    <sys_data_policy2 action="DELETE">
+        <active>true</active>
+        <apply_import_set>true</apply_import_set>
+        <apply_soap>true</apply_soap>
+        <conditions/>
+        <description/>
+        <enforce_ui>true</enforce_ui>
+        <inherit>false</inherit>
+        <model_id/>
+        <model_table>x_10559_minecraft_items</model_table>
+        <reverse_if_false>true</reverse_if_false>
+        <short_description>Sets the name field to mandatory</short_description>
+        <sys_class_name>sys_data_policy2</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-08 04:00:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b59053682f40301046c859a72799b69e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sets the name field to mandatory</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Minecraft Crafting Tree" source="x_10559_minecraft">ef894ba02f40301046c859a72799b6aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Minecraft Crafting Tree">ef894ba02f40301046c859a72799b6aa</sys_scope>
+        <sys_update_name>sys_data_policy2_b59053682f40301046c859a72799b69e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-08 04:00:14</sys_updated_on>
+    </sys_data_policy2>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Minecraft Crafting Tree">ef894ba02f40301046c859a72799b6aa</application>
+        <file_path/>
+        <instance_id>248edb16dbc5801491232f17d4961905</instance_id>
+        <instance_name>dev94654</instance_name>
+        <name>sys_data_policy2_b59053682f40301046c859a72799b69e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_data_policy2"><sys_data_policy2 action="INSERT_OR_UPDATE"><active>true</active><apply_import_set>true</apply_import_set><apply_soap>true</apply_soap><conditions/><description/><enforce_ui>true</enforce_ui><inherit>false</inherit><model_id/><model_table>x_10559_minecraft_items</model_table><reverse_if_false>true</reverse_if_false><short_description>Sets the name field to mandatory</short_description><sys_class_name>sys_data_policy2</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-05-08 04:00:14</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b59053682f40301046c859a72799b69e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Sets the name field to mandatory</sys_name><sys_overrides/><sys_package display_value="Minecraft Crafting Tree" source="x_10559_minecraft">ef894ba02f40301046c859a72799b6aa</sys_package><sys_policy/><sys_scope display_value="Minecraft Crafting Tree">ef894ba02f40301046c859a72799b6aa</sys_scope><sys_update_name>sys_data_policy2_b59053682f40301046c859a72799b69e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-05-08 04:00:14</sys_updated_on></sys_data_policy2></record_update>]]></payload>
+        <payload_hash>-271945534</payload_hash>
+        <record_name>Sets the name field to mandatory</record_name>
+        <reverted_from/>
+        <source>678907242f40301046c859a72799b6c9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-08 04:00:14</sys_created_on>
+        <sys_id>069053682f40301046c859a72799b6a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1794a2206280000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-08 04:00:14</sys_updated_on>
+        <type>Data Policy</type>
+        <update_guid>3d905368b2403010b5d067a8634c27a0</update_guid>
+        <update_guid_history>3d905368b2403010b5d067a8634c27a0:-271945534</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-08 04:04:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_data_policy2">sys_data_policy2</sys_db_object>
+        <sys_id>628e66098d74449bbbbfb8ba04cd81b1</sys_id>
+        <sys_metadata>b59053682f40301046c859a72799b69e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sets the name field to mandatory</sys_name>
+        <sys_package display_value="Minecraft Crafting Tree" source="x_10559_minecraft">ef894ba02f40301046c859a72799b6aa</sys_package>
+        <sys_parent display_value="">619053682f40301046c859a72799b643</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Minecraft Crafting Tree">ef894ba02f40301046c859a72799b6aa</sys_scope>
+        <sys_scope_delete display_value="">7f0151c02bc24ab88f5b2168f50db504</sys_scope_delete>
+        <sys_update_name>sys_data_policy2_b59053682f40301046c859a72799b69e</sys_update_name>
+        <sys_update_version display_value="sys_data_policy2_b59053682f40301046c859a72799b69e">069053682f40301046c859a72799b6a1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-08 04:04:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

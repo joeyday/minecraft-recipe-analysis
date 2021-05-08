@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_m2m">
+    <sys_m2m action="DELETE">
+        <from_table>x_10559_minecraft_item</from_table>
+        <m2m_from_field>ingredient</m2m_from_field>
+        <m2m_from_label>Ingredient</m2m_from_label>
+        <m2m_table>x_10559_minecraft_m2m_items_items</m2m_table>
+        <m2m_to_field>result</m2m_to_field>
+        <m2m_to_label>Result</m2m_to_label>
+        <sys_class_name>sys_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-08 04:08:40</sys_created_on>
+        <sys_id>bd425ba82f40301046c859a72799b636</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_10559_minecraft_m2m_items_items</sys_name>
+        <sys_package display_value="Minecraft Crafting Tree" source="x_10559_minecraft">ef894ba02f40301046c859a72799b6aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Minecraft Crafting Tree">ef894ba02f40301046c859a72799b6aa</sys_scope>
+        <sys_update_name>sys_m2m_bd425ba82f40301046c859a72799b636</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-08 04:08:40</sys_updated_on>
+        <to_table>x_10559_minecraft_item</to_table>
+    </sys_m2m>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Minecraft Crafting Tree">ef894ba02f40301046c859a72799b6aa</application>
+        <file_path/>
+        <instance_id>248edb16dbc5801491232f17d4961905</instance_id>
+        <instance_name>dev94654</instance_name>
+        <name>sys_m2m_bd425ba82f40301046c859a72799b636</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_m2m"><sys_m2m action="INSERT_OR_UPDATE"><from_table>x_10559_minecraft_item</from_table><m2m_from_field>ingredient</m2m_from_field><m2m_from_label>Ingredient</m2m_from_label><m2m_table>x_10559_minecraft_m2m_items_items</m2m_table><m2m_to_field>result</m2m_to_field><m2m_to_label>Result</m2m_to_label><sys_class_name>sys_m2m</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-05-08 04:08:40</sys_created_on><sys_id>bd425ba82f40301046c859a72799b636</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_10559_minecraft_m2m_items_items</sys_name><sys_package display_value="Minecraft Crafting Tree" source="x_10559_minecraft">ef894ba02f40301046c859a72799b6aa</sys_package><sys_policy/><sys_scope display_value="Minecraft Crafting Tree">ef894ba02f40301046c859a72799b6aa</sys_scope><sys_update_name>sys_m2m_bd425ba82f40301046c859a72799b636</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-05-08 04:08:40</sys_updated_on><to_table>x_10559_minecraft_item</to_table></sys_m2m></record_update>]]></payload>
+        <payload_hash>568158816</payload_hash>
+        <record_name>x_10559_minecraft_m2m_items_items</record_name>
+        <reverted_from/>
+        <source>678907242f40301046c859a72799b6c9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-08 04:08:41</sys_created_on>
+        <sys_id>7982dba82f40301046c859a72799b6e7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1794a29c2c40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-08 04:08:41</sys_updated_on>
+        <type>Many to Many Definition</type>
+        <update_guid>b182dba80740301099f46d85327097e7</update_guid>
+        <update_guid_history>b182dba80740301099f46d85327097e7:568158816</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-08 04:35:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_m2m">sys_m2m</sys_db_object>
+        <sys_id>653e569cd47c4a9ba7ccc5203194c0c9</sys_id>
+        <sys_metadata>bd425ba82f40301046c859a72799b636</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_10559_minecraft_m2m_items_items</sys_name>
+        <sys_package display_value="Minecraft Crafting Tree" source="x_10559_minecraft">ef894ba02f40301046c859a72799b6aa</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Minecraft Crafting Tree">ef894ba02f40301046c859a72799b6aa</sys_scope>
+        <sys_scope_delete display_value="">7f0151c02bc24ab88f5b2168f50db504</sys_scope_delete>
+        <sys_update_name>sys_m2m_bd425ba82f40301046c859a72799b636</sys_update_name>
+        <sys_update_version display_value="sys_m2m_bd425ba82f40301046c859a72799b636">7982dba82f40301046c859a72799b6e7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-08 04:35:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

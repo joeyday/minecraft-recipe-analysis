@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-08 04:00:16</sys_created_on>
+        <sys_id>da9053682f40301046c859a72799b6d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_10559_minecraft_items.x_10559_minecraft.user</sys_name>
+        <sys_package display_value="Minecraft Crafting Tree" source="x_10559_minecraft">ef894ba02f40301046c859a72799b6aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Minecraft Crafting Tree">ef894ba02f40301046c859a72799b6aa</sys_scope>
+        <sys_security_acl display_value="x_10559_minecraft_items">529053682f40301046c859a72799b6d1</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_da9053682f40301046c859a72799b6d3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-08 04:00:16</sys_updated_on>
+        <sys_user_role display_value="x_10559_minecraft.user" name="x_10559_minecraft.user">1399cb202f00301046c859a72799b666</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Minecraft Crafting Tree">ef894ba02f40301046c859a72799b6aa</application>
+        <file_path/>
+        <instance_id>248edb16dbc5801491232f17d4961905</instance_id>
+        <instance_name>dev94654</instance_name>
+        <name>sys_security_acl_role_da9053682f40301046c859a72799b6d3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-05-08 04:00:16</sys_created_on><sys_id>da9053682f40301046c859a72799b6d3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_10559_minecraft_items.x_10559_minecraft.user</sys_name><sys_package display_value="Minecraft Crafting Tree" source="x_10559_minecraft">ef894ba02f40301046c859a72799b6aa</sys_package><sys_policy/><sys_scope display_value="Minecraft Crafting Tree">ef894ba02f40301046c859a72799b6aa</sys_scope><sys_security_acl display_value="x_10559_minecraft_items">529053682f40301046c859a72799b6d1</sys_security_acl><sys_update_name>sys_security_acl_role_da9053682f40301046c859a72799b6d3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-05-08 04:00:16</sys_updated_on><sys_user_role display_value="x_10559_minecraft.user" name="x_10559_minecraft.user">1399cb202f00301046c859a72799b666</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-968169850</payload_hash>
+        <record_name>x_10559_minecraft_items.x_10559_minecraft.user</record_name>
+        <reverted_from/>
+        <source>678907242f40301046c859a72799b6c9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-08 04:00:16</sys_created_on>
+        <sys_id>169053682f40301046c859a72799b6d6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1794a220da00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-08 04:00:16</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>5e9053687b40301085f4243e9d387bd5</update_guid>
+        <update_guid_history>5e9053687b40301085f4243e9d387bd5:-968169850</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_10559_minecraft_items.x_10559_minecraft.user">2da1df682f40301046c859a72799b6bc</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-08 04:04:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>3d9b166cdefd41b48c5403fa23f941a9</sys_id>
+        <sys_metadata>da9053682f40301046c859a72799b6d3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_10559_minecraft_items.x_10559_minecraft.user</sys_name>
+        <sys_package display_value="Minecraft Crafting Tree" source="x_10559_minecraft">ef894ba02f40301046c859a72799b6aa</sys_package>
+        <sys_parent display_value="">529053682f40301046c859a72799b6d1</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Minecraft Crafting Tree">ef894ba02f40301046c859a72799b6aa</sys_scope>
+        <sys_scope_delete display_value="">7f0151c02bc24ab88f5b2168f50db504</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_da9053682f40301046c859a72799b6d3</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_da9053682f40301046c859a72799b6d3">169053682f40301046c859a72799b6d6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-08 04:04:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Minecraft Crafting Tree">d56993202f80301046c859a72799b6f3</application>
+        <filter/>
+        <name>Recipes</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles/>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-08 04:38:41</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>196993202f80301046c859a72799b6f6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Recipes</sys_name>
+        <sys_package display_value="Minecraft Crafting Tree" source="x_10559_minecraft">ef894ba02f40301046c859a72799b6aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Minecraft Crafting Tree">ef894ba02f40301046c859a72799b6aa</sys_scope>
+        <sys_update_name>sys_ui_module_196993202f80301046c859a72799b6f6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-08 04:38:41</sys_updated_on>
+        <table>x_10559_minecraft_recipe</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
